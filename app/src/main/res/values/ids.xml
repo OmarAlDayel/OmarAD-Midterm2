@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_del_first_row" type="id">DELETE</item>
+    <item name="out_first_row" type="id">DELETE</item>
+    <item name="btn_go_2act3" type="id">Go to act 3</item>
+    <item name="btn_go_3act2" type="id">Go To Act 2</item>
+</resources>

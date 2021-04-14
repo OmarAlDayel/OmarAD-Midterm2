@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OmarAD-Midterm2</string>
+    <item name="btn_pick_date" type="id">Date</item>
+    <item name="btn_1go_act2" type="id">Go To Act 1</item>
+    <item name="btn_1go_act3" type="id">Next Act</item>
+    <item name="btn_read_first_row" type="id">readfirstrow</item>
+    <item name="btn_go_2act1" type="id">gO</item>
+    <item name="btn_go_3act1" type="id">Return To Act 1</item>
+    <item name="btn_delete" type="id">delete</item>
+    <item name="btn_select" type="id">Select</item>
+</resources>
